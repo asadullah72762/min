@@ -1,0 +1,2 @@
+# min
+my new repo
